@@ -41,3 +41,4 @@ for r in registros:
 
 # 5️⃣ Fechar conexão
 conexao.close()
+
